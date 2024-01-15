@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: hsl(185, 33%, 94%);
+    
+   }
+   .img{
+    height: 450px;
+   }
+   
+   .footer{
+    background-color: #0a0909;
+    height: 250px;
+    color: rgb(216, 142, 142);
+    padding-top: 10px;
+   }
+   .pick img{
+    width: 150px;
+    height: 200px;
+   }
+
+.container1{
+    width: 100%;
+    height: 50%;
+}
+
+.col-sm-6 p{
+    color: rgb(242, 249, 36);  
+}
+
+.col-sm-6 a{
+    font-size: larger;
+}
+
+
+
+
+
+   
+   
